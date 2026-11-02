@@ -27,14 +27,26 @@ Abstractfactory
 
 ![alt text](image.png)
 
+
+
 Adapter
+
 ![alt text](image-1.png)
 
+
+
 Bridge
+
 ![alt text](image-2.png)
 
+
+
 ommand
+
 ![alt text](image-3.png)
 
+
+
 Observer
+
 ![alt text](image-4.png)
